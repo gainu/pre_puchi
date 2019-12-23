@@ -1,8 +1,43 @@
 <menu>
-<project>
-<name>虾</name>
-<prop>荤</prop>
-<sptime>1</sptime>
-<sctime>4</sctime>
-<>
-</projects>
+  <project>
+    <name>虾</name>
+    <prop>荤</prop>
+    <price>6</price>
+    <sptime>1</sptime>
+    <sctime>4</sctime>
+    <ptime50>4</ptime50>
+    <ctime50>8</ctime50>
+  </project>
+  
+  <project>
+    <name>鸡翅</name>
+    <prop>荤</prop>
+    <price>6</price>
+    <sptime>1</sptime>
+    <sctime>30</sctime>
+    <ptime50>10</ptime50>
+    <ctime50>60</ctime50>
+  </project>
+  
+  <project>
+    <name>番茄炒蛋</name>
+    <prop>素</prop>
+    <price>2.5</price>
+    <sptime>5</sptime>
+    <sctime>10</sctime>
+    <ptime50>30</ptime50>
+    <ctime50>30</ctime50>
+  </project>  
+  
+  <project>
+    <name>芹菜木耳胡萝卜腐竹</name>
+    <prop>素</prop>
+    <price>2.5</price>
+    <sptime>5</sptime>
+    <sctime>10</sctime>
+    <ptime50>30</ptime50>
+    <ctime50>30</ctime50>
+  </project>  
+  
+  
+</menu>
